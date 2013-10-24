@@ -1,7 +1,7 @@
 Pinned homebrew formulae, for bootstrapping local development environments.
 Formulae are reproduced from https://github.com/mxcl/homebrew.
 
-# Instructions
+## Instructions
 
 Tap the repository:
 
