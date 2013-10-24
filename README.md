@@ -1,5 +1,5 @@
-Pinned homebrew formulae, for bootstrapping local development environments.
-Formulae are reproduced from https://github.com/mxcl/homebrew.
+Pinned homebrew formulas, for bootstrapping local development environments.
+Formulas are reproduced from https://github.com/mxcl/homebrew.
 
 ## Instructions
 
