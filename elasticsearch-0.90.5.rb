@@ -2,7 +2,7 @@
 
 require 'formula'
 
-class Elasticsearch < Formula
+class Elasticsearch0905 < Formula
   homepage 'http://www.elasticsearch.org'
   url 'https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-0.90.5.tar.gz'
   sha1 '8027a4ae1bef6876c7651b1590607c8ff6108820'
