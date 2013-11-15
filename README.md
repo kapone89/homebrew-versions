@@ -3,10 +3,10 @@ Formulas are reproduced from https://github.com/mxcl/homebrew.
 
 ## Instructions
 
-Tap the repository:
+Tap the repository (the "homebrew-" prefix is magically implied):
 
 ```
-brew tap kickstarter/homebrew-versions
+brew tap kickstarter/versions
 ```
 
 To install a formula:
@@ -18,5 +18,5 @@ brew install <formula>
 If there are conflicts, force install using:
 
 ```
-brew install kickstarter/homebrew-versions/<formula>
+brew install kickstarter/versions/<formula>
 ```
