@@ -18,5 +18,5 @@ brew install <formula>
 If there are conflicts, force install using:
 
 ```
-brew install kickstarter/versions/<formula>
+brew install kickstarter/homebrew-versions/<formula>
 ```
